@@ -1,3 +1,9 @@
+<div align="center">
+  
+![Repo Traffic](https://komarev.com/ghpvc/?username=algorithms&label=Repo+Traffic&color=blue&style=flat-square)
+
+</div>
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
