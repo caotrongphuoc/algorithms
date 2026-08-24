@@ -6,16 +6,23 @@
 
 ## Documentation
 
+<div align="center">
+
 | File | Description |
-| :--- | :--- |
+| :---: | :---: |
 | [Code Organization Guide](docs/00-guide-code-organization.md) | Organize solutions in the repository with GitHub Desktop. |
 | [LeetHub Submission Guide](docs/01-guide-leethub-submission.md) | Submit LeetCode solutions to GitHub with LeetHub. |
+
+</div>
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0003-longest-substring-without-repeating-characters](https://github.com/caotrongphuoc/algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/caotrongphuoc/algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
@@ -34,9 +41,14 @@
 | [1544-make-the-string-great](https://github.com/caotrongphuoc/algorithm/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/caotrongphuoc/algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/caotrongphuoc/algorithms/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+
+</div>
+
 ## Stack
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0020-valid-parentheses](https://github.com/caotrongphuoc/algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/caotrongphuoc/algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/caotrongphuoc/algorithm/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -48,9 +60,14 @@
 | [1021-remove-outermost-parentheses](https://github.com/caotrongphuoc/algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/caotrongphuoc/algorithm/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/caotrongphuoc/algorithm/tree/main/1544-make-the-string-great/) | Easy |
+
+</div>
+
 ## Array
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/caotrongphuoc/algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
@@ -91,9 +108,14 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/caotrongphuoc/algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/caotrongphuoc/algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/caotrongphuoc/algorithm/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+
+</div>
+
 ## Two Pointers
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/caotrongphuoc/algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/caotrongphuoc/algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/caotrongphuoc/algorithm/tree/main/0075-sort-colors/) | Medium |
@@ -106,9 +128,14 @@
 | [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+
+</div>
+
 ## Sorting
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/caotrongphuoc/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
@@ -122,9 +149,14 @@
 | [0561-array-partition](https://github.com/caotrongphuoc/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+
+</div>
+
 ## Hash Table
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0003-longest-substring-without-repeating-characters](https://github.com/caotrongphuoc/algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/caotrongphuoc/algorithms/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -138,32 +170,57 @@
 | [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/caotrongphuoc/algorithms/tree/main/1370-increasing-decreasing-string/) | Easy |
+
+</div>
+
 ## Counting
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0169-majority-element](https://github.com/caotrongphuoc/algorithm/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/caotrongphuoc/algorithm/tree/main/0383-ransom-note/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/caotrongphuoc/algorithms/tree/main/1370-increasing-decreasing-string/) | Easy |
+
+</div>
+
 ## Bit Manipulation
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
+
+</div>
+
 ## Sliding Window
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0003-longest-substring-without-repeating-characters](https://github.com/caotrongphuoc/algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/caotrongphuoc/algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/caotrongphuoc/algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
+
+</div>
+
 ## Simulation
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0495-teemo-attacking](https://github.com/caotrongphuoc/algorithms/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/caotrongphuoc/algorithm/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/caotrongphuoc/algorithm/tree/main/0735-asteroid-collision/) | Medium |
+
+</div>
+
 ## Linked List
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/caotrongphuoc/algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/caotrongphuoc/algorithms/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/caotrongphuoc/algorithms/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -176,27 +233,47 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/caotrongphuoc/algorithm/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/caotrongphuoc/algorithm/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/caotrongphuoc/algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
+
+</div>
+
 ## Recursion
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0024-swap-nodes-in-pairs](https://github.com/caotrongphuoc/algorithms/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/caotrongphuoc/algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/caotrongphuoc/algorithms/tree/main/0206-reverse-linked-list/) | Easy |
+
+</div>
+
 ## Design
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0225-implement-stack-using-queues](https://github.com/caotrongphuoc/algorithm/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/caotrongphuoc/algorithm/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/caotrongphuoc/algorithm/tree/main/0622-design-circular-queue/) | Medium |
+
+</div>
+
 ## Queue
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0225-implement-stack-using-queues](https://github.com/caotrongphuoc/algorithm/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/caotrongphuoc/algorithm/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/caotrongphuoc/algorithm/tree/main/0622-design-circular-queue/) | Medium |
+
+</div>
+
 ## Math
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0069-sqrtx](https://github.com/caotrongphuoc/algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/caotrongphuoc/algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
@@ -205,9 +282,14 @@
 | [0556-next-greater-element-iii](https://github.com/caotrongphuoc/algorithms/tree/main/0556-next-greater-element-iii/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/caotrongphuoc/algorithm/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+
+</div>
+
 ## Binary Search
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/caotrongphuoc/algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -218,27 +300,47 @@
 | [0875-koko-eating-bananas](https://github.com/caotrongphuoc/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+
+</div>
+
 ## Greedy
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0179-largest-number](https://github.com/caotrongphuoc/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0561-array-partition](https://github.com/caotrongphuoc/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/caotrongphuoc/algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/caotrongphuoc/algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/caotrongphuoc/algorithms/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+
+</div>
+
 ## Counting Sort
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0561-array-partition](https://github.com/caotrongphuoc/algorithm/tree/main/0561-array-partition/) | Easy |
+
+</div>
+
 ## Divide and Conquer
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0053-maximum-subarray](https://github.com/caotrongphuoc/algorithms/tree/main/0053-maximum-subarray/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/caotrongphuoc/algorithm/tree/main/0169-majority-element/) | Easy |
+
+</div>
+
 ## Tree
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0104-maximum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -247,42 +349,77 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/caotrongphuoc/algorithm/tree/main/0872-leaf-similar-trees/) | Easy |
+
+</div>
+
 ## Binary Search Tree
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+
+</div>
+
 ## Binary Tree
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0104-maximum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/caotrongphuoc/algorithm/tree/main/0872-leaf-similar-trees/) | Easy |
+
+</div>
+
 ## Monotonic Stack
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0496-next-greater-element-i](https://github.com/caotrongphuoc/algorithms/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/caotrongphuoc/algorithm/tree/main/0739-daily-temperatures/) | Medium |
+
+</div>
+
 ## Interactive
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+
+</div>
+
 ## Dynamic Programming
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0053-maximum-subarray](https://github.com/caotrongphuoc/algorithms/tree/main/0053-maximum-subarray/) | Medium |
 | [0542-01-matrix](https://github.com/caotrongphuoc/algorithm/tree/main/0542-01-matrix/) | Medium |
 | [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/caotrongphuoc/algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
+
+</div>
+
 ## Heap (Priority Queue)
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [1388-pizza-with-3n-slices](https://github.com/caotrongphuoc/algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
+
+</div>
+
 ## Depth-First Search
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0079-word-search](https://github.com/caotrongphuoc/algorithm/tree/main/0079-word-search/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -298,9 +435,14 @@
 | [0841-keys-and-rooms](https://github.com/caotrongphuoc/algorithm/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/caotrongphuoc/algorithm/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0934-shortest-bridge](https://github.com/caotrongphuoc/algorithm/tree/main/0934-shortest-bridge/) | Medium |
+
+</div>
+
 ## Breadth-First Search
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0104-maximum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/caotrongphuoc/algorithm/tree/main/0200-number-of-islands/) | Medium |
@@ -317,9 +459,14 @@
 | [0934-shortest-bridge](https://github.com/caotrongphuoc/algorithm/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/caotrongphuoc/algorithm/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/caotrongphuoc/algorithm/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+
+</div>
+
 ## Matrix
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0079-word-search](https://github.com/caotrongphuoc/algorithm/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/caotrongphuoc/algorithm/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/caotrongphuoc/algorithm/tree/main/0463-island-perimeter/) | Easy |
@@ -329,33 +476,66 @@
 | [0934-shortest-bridge](https://github.com/caotrongphuoc/algorithm/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/caotrongphuoc/algorithm/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/caotrongphuoc/algorithm/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+
+</div>
+
 ## Union-Find
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0200-number-of-islands](https://github.com/caotrongphuoc/algorithm/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/caotrongphuoc/algorithm/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
+
+</div>
+
 ## Graph Theory
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0547-number-of-provinces](https://github.com/caotrongphuoc/algorithm/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/caotrongphuoc/algorithm/tree/main/0841-keys-and-rooms/) | Medium |
+
+</div>
+
 ## Backtracking
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0079-word-search](https://github.com/caotrongphuoc/algorithm/tree/main/0079-word-search/) | Medium |
 | [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
+
+</div>
+
 ## Memoization
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
+
+</div>
+
 ## Prefix Sum
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0209-minimum-size-subarray-sum](https://github.com/caotrongphuoc/algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+
+</div>
+
 ## String Matching
+<div align="center">
+
 | Problem Name | Difficulty |
-| :--- | :---: |
+| :---: | :---: |
 | [0796-rotate-string](https://github.com/caotrongphuoc/algorithm/tree/main/0796-rotate-string/) | Easy |
+
+</div>
+
 <!---LeetCode Topics End-->
