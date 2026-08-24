@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img width="1280" height="640" alt="Algorithms and Data Structures" src="resources/images/banner/banner_algorithms.png" />
+  <img width="1280" height="640" alt="Algorithms and Data Structures" src="resources/images/banner/banner_algorithms_1280x640.png" />
 </p>
 
 <hr>
