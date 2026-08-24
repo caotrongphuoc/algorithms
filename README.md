@@ -4,6 +4,13 @@
 
 </div>
 
+## Documentation
+
+| File | Description |
+| --- | --- |
+| [Code Organization Guide](docs/00-guide-code-organization.md) | Organize solutions in the repository with GitHub Desktop. |
+| [LeetHub Submission Guide](docs/01-guide-leethub-submission.md) | Submit LeetCode solutions to GitHub with LeetHub. |
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
