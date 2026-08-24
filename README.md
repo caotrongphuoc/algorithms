@@ -20,15 +20,20 @@ This repository contains my LeetCode solutions and notes from studying algorithm
 
 ```text
 algorithms/
-|-- docs/           Guides for organizing and submitting solutions
-|-- resources/      Images used by the guides
-|-- week-1/         Week 1 solutions
-|-- week-2-3/       Week 2 and Week 3 solutions
-|-- week-4/         Week 4 solutions
-|-- week-5/         Week 5 solutions
-|-- week-6/         Week 6 solutions
-|-- week-7/         Week 7 solutions
-`-- README.md        Repository overview and LeetHub topic index
+├── docs/                                      # Guides
+│   ├── 00-guide-code-organization.md
+│   └── 01-guide-leethub-submission.md
+├── resources/                                 # Documentation assets
+│   └── images/
+│       ├── banner/
+│       └── tutorial/
+├── week-1/                                    # Week 1 solutions
+├── week-2-3/                                  # Week 2 and Week 3 solutions
+├── week-4/                                    # Week 4 solutions
+├── week-5/                                    # Week 5 solutions
+├── week-6/                                    # Week 6 solutions
+├── week-7/                                    # Week 7 solutions
+└── README.md                                  # Repository overview
 ```
 
 ## Practice Progress
