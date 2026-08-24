@@ -6,6 +6,11 @@
 
 </div>
 
+<center><img width="1280" height="640" alt="Zomwar" src="resources/images/banner/banner_algorithms.png" />
+</center>
+
+<hr>
+
 ## Introduction
 
 This repository contains my LeetCode solutions and notes from studying algorithms and data structures. Solutions are grouped by study week, and each problem directory includes its source code and problem description.
