@@ -6,8 +6,9 @@
 
 </div>
 
-<center><img width="1280" height="640" alt="Zomwar" src="resources/images/banner/banner_algorithms.png" />
-</center>
+<p align="center">
+  <img width="1280" height="640" alt="Algorithms and Data Structures" src="resources/images/banner/banner_algorithms.png" />
+</p>
 
 <hr>
 
@@ -34,15 +35,15 @@ algorithms/
 
 <div align="center">
 
-| Period | Solutions | Directory |
-| :---: | :---: | :---: |
-| Week 1 | 10 | [Browse](week-1/) |
-| Week 2-3 | 20 | [Browse](week-2-3/) |
-| Week 4 | 10 | [Browse](week-4/) |
-| Week 5 | 10 | [Browse](week-5/) |
-| Week 6 | 10 | [Browse](week-6/) |
-| Week 7 | 21 | [Browse](week-7/) |
-| **Total** | **81** | |
+| Period | Solutions |
+| :---: | :---: |
+| [Week 1](week-1/) | 10 |
+| [Week 2-3](week-2-3/) | 20 |
+| [Week 4](week-4/) | 10 |
+| [Week 5](week-5/) | 10 |
+| [Week 6](week-6/) | 10 |
+| [Week 7](week-7/) | 21 |
+| **Total** | **81** |
 
 </div>
 

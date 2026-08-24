@@ -5,15 +5,14 @@ Use the **LeetHub** browser extension to push accepted LeetCode solutions to a G
 ---
 
 ## Table of Contents
-- [I. Tutorial](#i-tutorial)
+- [Tutorial](#tutorial)
   - [Step 1: Create a Repository](#step-1-create-a-repository)
   - [Step 2: Install LeetHub](#step-2-install-leethub)
   - [Step 3: Submit Code from LeetCode](#step-3-submit-code-from-leetcode)
-- [II. Warning](#ii-warning)
 
 ---
 
-## I. Tutorial
+## Tutorial
 
 ### Step 1: Create a Repository
 
