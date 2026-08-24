@@ -1,6 +1,6 @@
-# How to Organize Your Code in Repository
+# Organize Code in a GitHub Repository
 
-A step-by-step guide to managing and organizing your code on GitHub using **GitHub Desktop**.
+Use **GitHub Desktop** to clone the repository, organize solution files, and push the changes to GitHub.
 
 ---
 
@@ -17,7 +17,7 @@ A step-by-step guide to managing and organizing your code on GitHub using **GitH
 
 ## Step 1: Download and Login to GitHub Desktop
 
-Download **GitHub Desktop** for Windows from the [official website](https://desktop.github.com/) and sign in with your GitHub account. For Linux users, you can follow [this guide](https://linuxcapable.com/how-to-install-github-desktop-on-ubuntu-linux/) to install **GitHub Desktop** on Ubuntu.
+Download **GitHub Desktop** for Windows from the [official website](https://desktop.github.com/) and sign in with your GitHub account. On Ubuntu, follow this [installation guide](https://linuxcapable.com/how-to-install-github-desktop-on-ubuntu-linux/).
 
 <p align="center">
   <img width="900" alt="Download GitHub Desktop" src="../images/tutorial/codestructure/download-github.png" />
@@ -27,7 +27,7 @@ Download **GitHub Desktop** for Windows from the [official website](https://desk
 
 ## Step 2: Clone Your Repository
 
-Cloning creates a local copy of your remote repository so you can edit files directly on your computer.
+Clone the repository to create a local copy that you can edit on your computer.
 
 **2.1.** In GitHub Desktop, choose **Clone a repository from the Internet**.
 
@@ -47,13 +47,13 @@ Cloning creates a local copy of your remote repository so you can edit files dir
 
 ### Fetch and Pull
 
-**Fetch** — Check for new changes from the remote repository (GitHub) **without** modifying your local files.
+**Fetch:** Check for changes on GitHub **without** modifying your local files.
 
 <p align="center">
   <img width="900" alt="Fetch from remote" src="../images/tutorial/codestructure/fetch-repo.png" />
 </p>
 
-**Pull** — Download the changes from the remote repository and **merge** them into your current branch.
+**Pull:** Download changes from GitHub and **merge** them into your current branch.
 
 <p align="center">
   <img width="900" alt="Pull changes" src="../images/tutorial/codestructure/pull-repo.png" />
@@ -117,10 +117,4 @@ Cloning creates a local copy of your remote repository so you can edit files dir
 
 <p align="center">
   <img width="900" alt="Final repository structure" src="../images/tutorial/codestructure/result.png" />
-</p>
-
----
-
-<p align="center">
-  <i>Have fun coding!</i>
 </p>

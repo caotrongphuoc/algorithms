@@ -1,6 +1,6 @@
-# How to Submit Code from LeetCode to GitHub
+# Submit LeetCode Solutions to GitHub
 
-A step-by-step guide to automatically push your LeetCode solutions to a GitHub repository using the **LeetHub** extension.
+Use the **LeetHub** browser extension to push accepted LeetCode solutions to a GitHub repository.
 
 ---
 
@@ -17,7 +17,7 @@ A step-by-step guide to automatically push your LeetCode solutions to a GitHub r
 
 ### Step 1: Create a Repository
 
-First, create a new repository on GitHub to store your LeetCode solutions.
+Create a GitHub repository for your LeetCode solutions.
 
 **1.1.** Go to your GitHub homepage and locate the repository section.
 
@@ -43,7 +43,7 @@ First, create a new repository on GitHub to store your LeetCode solutions.
 
 LeetHub is a browser extension that automatically pushes your accepted LeetCode submissions to GitHub.
 
-**2.1.** Search for **LeetHub** in the Chrome/Edge/FireFox Web Store and add it to your browser.
+**2.1.** Search for **LeetHub** in the Chrome, Edge, or Firefox extension store and add it to your browser.
 
 <p align="center">
   <img width="800" alt="Install LeetHub extension" src="../images/tutorial/submitcode/extension.png" />
@@ -65,7 +65,7 @@ LeetHub is a browser extension that automatically pushes your accepted LeetCode 
 
 ### Step 3: Submit Code from LeetCode
 
-Once LeetHub is set up, every accepted submission can be pushed to GitHub automatically.
+After setup, LeetHub can push each accepted submission to GitHub.
 
 **3.1.** Solve a problem on LeetCode and click **Submit**.
 
@@ -73,7 +73,7 @@ Once LeetHub is set up, every accepted submission can be pushed to GitHub automa
   <img width="800" alt="Submit code on LeetCode" src="../images/tutorial/submitcode/submit-code.png" />
 </p>
 
-> **Note:** Wait until the LeetHub icon shows a **green tick** — this confirms your code has been pushed to GitHub successfully.
+> **Note:** Wait until the LeetHub icon shows a **green tick**. This confirms that the code was pushed to GitHub.
 
 <p align="center">
   <img width="800" alt="Wait for green tick" src="../images/tutorial/submitcode/wait-for-tick.png" />
@@ -99,9 +99,3 @@ You can edit the default commit message in the LeetHub extension settings to bet
 
 - LinkedIn: [www.linkedin.com/in/cao-trong-phuoc](https://www.linkedin.com/in/cao-trong-phuoc)
 - Phone: 0936310918
-
----
-
-<p align="center">
-  <i>Have fun coding!</i>
-</p>
