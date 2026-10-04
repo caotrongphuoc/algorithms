@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Repo Traffic](https://komarev.com/ghpvc/?username=algorithms&label=Repo+Traffic&color=blue&style=flat-square)
+![Repo Traffic](https://ak-badge-proxy.caotrongphuoc.workers.dev/?username=algorithms&label=Repo+Traffic&color=blue&style=flat-square)
 
 </div>
 
