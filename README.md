@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Repo Traffic](https://ak-badge-proxy.caotrongphuoc.workers.dev/?username=algorithms&label=Repo+Traffic&color=yellow&style=flat-square)
+![Repo Traffic](https://ak-badge-proxy.caotrongphuoc.workers.dev/?username=algorithms&label=Repo+Traffic&color=orange&style=flat-square)
 
 </div>
 
